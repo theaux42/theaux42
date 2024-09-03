@@ -25,6 +25,7 @@ Outside of school, I’m passionate about self-hosting and am actively replacing
   ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 - **Tools**:
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -45,6 +46,13 @@ Outside of school, I’m passionate about self-hosting and am actively replacing
 - **Description**: A 42 School project that parses a map and displays it in pseudo 3D isometric view using **minilibx**.
 - **Project Link**: [GitHub Repo](https://github.com/theaux42/FdF)
 
+### Cloudflare Updater
+- **Language**: Python
+- **Description**: Automatically updates DNS records on Cloudflare in case of a dynamic IP. Detects internet outages and updates the IP via Cloudflare's API once connectivity is restored. Includes a notification system using **ntfy** to alert when the IP changes.
+- **Project Link**: [GitHub Repo](https://github.com/theaux42/cloudflare-updater)
+
 ## 📫 How to reach me
 - **Email**: [tbabou@student.42.fr](mailto:tbabou@student.42.fr)
 - **LinkedIn**: [Teo Babou](https://www.linkedin.com/in/teo-babou-2744b7325/)
+
+Thanks for visiting my profile!
