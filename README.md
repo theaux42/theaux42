@@ -36,15 +36,15 @@ Outside of school, I’m passionate about self-hosting and am actively replacing
 
 ## 🛠️ My Projects
 
-### SimplEncrypt
-- **Language**: Python
-- **Description**: A tool that encrypts any file using **AES 256**, the encryption standard used by the US military.
-- **Project Link**: [GitHub Repo](https://github.com/theaux42/SimplEncrypt)
-
 ### FdF
 - **Language**: C
 - **Description**: A 42 School project that parses a map and displays it in pseudo 3D isometric view using **minilibx**.
 - **Project Link**: [GitHub Repo](https://github.com/theaux42/FdF)
+
+### SimplEncrypt
+- **Language**: Python
+- **Description**: A tool that encrypts any file using **AES 256**, the encryption standard used by the US military.
+- **Project Link**: [GitHub Repo](https://github.com/theaux42/SimplEncrypt)
 
 ### Cloudflare Updater
 - **Language**: Python
